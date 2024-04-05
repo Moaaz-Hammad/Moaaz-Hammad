@@ -14,7 +14,6 @@
 - 🏢 I'm an AI and Machine Learning Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Python, Pandas, and Matplotlib, or anything related to AI.
-- 👨‍💻 Check out my portfolio at https://moaaz-hammad to see some of the projects I've worked on.
 
 
 ### Connect with Me :
